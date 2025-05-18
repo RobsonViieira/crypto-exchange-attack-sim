@@ -1,0 +1,3 @@
+- Use autenticação forte (MFA)
+- Proteja APIs com tokens expiráveis
+- Detecte padrões incomuns de acesso
